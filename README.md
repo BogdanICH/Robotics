@@ -1,2 +1,2 @@
 # Robotics
-It will contain all my things about robotics.
+Repository for the Introduction to Robotics course
