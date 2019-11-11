@@ -33,7 +33,6 @@ redVal = analogRead(redPot);
 greenVal = analogRead(greenPot); 
 blueVal = analogRead(bluePot); 
 
-
 //here I map the value, because analogRead gives me value between 0 and 1023
 //but the analogWrite wants value between 0 and 255
 redVal = map(redVal, 0, 1023, 0, 255); 
