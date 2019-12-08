@@ -4,9 +4,9 @@ Description:
 
 - Menu:
   - Play game(on LCD during the game will be displayed score, time, level)
-  - high score(will be displayed the best high score for every level)
-  - settings(where you can set the level for the game and leave the feedback with a note)
-  - info(creator name, github link, game name, Unibuc Robotics)
+  - High score(will be displayed the best high score for every level)
+  - Settings(where you can set the level for the game and leave the feedback with a note)
+  - Info(creator name, github link, game name, Unibuc Robotics)
 
 - Start game: 
     - you will be placed in the upper left corner and you will have to reach the opposite corner without dropping too many bombs
