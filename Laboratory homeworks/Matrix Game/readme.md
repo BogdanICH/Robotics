@@ -49,7 +49,7 @@ How it meets all the technical requirements from Requirements:
     - high score in EEPROM
     - Play game
     - Settings(where you can set the level for the game and leave the feedback with a note)
-    - High Score(saved in EEPROM, I will save 3 high score for each level, inital is 0)
+    - High Score(saved in EEPROM, I will save 3 high score, meaning one for each level, inital is 0)
     - Info(creator name, github link, game name, Unibuc Robotics)
     - on LCD: score, time, level
     - Congratulations message in the end
