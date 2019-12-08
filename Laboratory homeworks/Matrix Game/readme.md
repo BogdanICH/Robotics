@@ -10,7 +10,7 @@ Description:
 
 - Start game: 
     - you will be placed in the upper left corner and you will have to reach the opposite corner without dropping too many bombs
-    - for 5 seconds, all the bombs on the map will be displayed, so remember where they are planted and you can't move
+    - for 5 seconds, all the bombs on the map will be displayed, so remember where they are planted(you can't move in this 5 seconds)
     - depending on the level, the number of bombs on the map will increase, and the game will become harder,
   and you can enter a maximum of 1 bomb, so you have just one extra life
     - when the game starts(after that 5 seconds), you will have 20 seconds to finish the game
