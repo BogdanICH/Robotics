@@ -14,8 +14,7 @@ Description:
     - depending on the level, the number of bombs on the map will increase, and the game will become harder,
   and you can enter a maximum of 1 bomb, so you have just one extra life
     - when the game starts(after that 5 seconds), you will have 20 seconds to finish the game
-    
-    -here is a schema(level 1): https://imgur.com/SIkAOj7
+    - here is a schema(level 1): https://imgur.com/SIkAOj7
   
  - The levels:
     - there are 3 levels, and each level has 5 bombs in addition to the one in front
