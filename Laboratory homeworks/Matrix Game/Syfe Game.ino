@@ -122,7 +122,6 @@ bool mapLevel1[5][8][8] = {
 
 };
 
-
 bool mapLevel2[5][8][8] = {
   
 {{0, 1, 0, 0, 0, 0, 0, 1},
@@ -152,7 +151,6 @@ bool mapLevel2[5][8][8] = {
 {0, 0, 1, 0, 0, 0, 0, 0},
 {1, 0, 0, 0, 1, 0, 1, 0}},
 
-
 {{0, 0, 0, 0, 1, 0, 0, 1},
 {0, 0, 1, 0, 0, 0, 0, 0},
 {0, 0, 0, 0, 1, 1, 1, 1},
@@ -162,7 +160,6 @@ bool mapLevel2[5][8][8] = {
 {0, 0, 0, 0, 0, 1, 0, 0},
 {0, 0, 1, 0, 0, 0, 0, 0}},
 
-
 {{0, 0, 1, 0, 0, 1, 0, 0},
 {0, 0, 0, 0, 1, 0, 0, 0},
 {1, 0, 0, 1, 0, 0, 0, 1},
@@ -171,7 +168,6 @@ bool mapLevel2[5][8][8] = {
 {0, 0, 1, 0, 0, 0, 0, 0},
 {0, 0, 0, 1, 0, 0, 0, 1},
 {0, 1, 0, 0, 1, 0, 0, 0}},
-
 
 };
 bool mapLevel3[5][8][8] = {
@@ -242,7 +238,6 @@ bool pointsMap[8][8] = {
 {0, 0, 0, 0, 0, 0, 0, 0},
 {0, 0, 0, 0, 0, 0, 0, 0}
 };
-
 
 // function for set the joyMove
 void joyMovedFun() {joyMovedx = false; joyMovedy = false;}
@@ -401,7 +396,6 @@ void setColor(int color) {
       analogWrite(greenPin, greenVal); 
       analogWrite(bluePin, blueVal); 
     } 
-  
 }
 // I check if I am one step to a bomb, and if I am, rgb led will be red, also, green
 void checkBombs(int row, int col) {
