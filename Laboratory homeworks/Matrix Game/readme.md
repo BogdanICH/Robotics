@@ -58,6 +58,8 @@ if you are to close of it, the led will be turn off, so you have to stay a littl
     - after this messages, on LCD display will be shown final score and number of seconds he used on top of LCD and 
 in bottom will be Play again and Menu with a ">" in front(you can choose with the joystick what you want)
 
+Video link: https://youtu.be/ZYHMe5cUwU4
+
 How it meets all the technical requirements from Requirements:
   - I will use: 8x8 LED matrix, LCD display, Joystick, MAX7219 Driver, RGB led, arduino board, breadboards, distance sensor, potentiometer, wires, resistors, electrolytic capacitor of 10 μF, ceramic capacitor of 104 pF
   - I have:
