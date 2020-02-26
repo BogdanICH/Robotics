@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ColorSensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ColorSensor	KEYWORD1	ColorSensor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getColor	KEYWORD2
+getRedPW	KEYWORD2
+getGreenPW	KEYWORD2
+getBluePW	KEYWORD2
+PinSetup	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
