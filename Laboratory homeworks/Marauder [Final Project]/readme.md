@@ -21,7 +21,7 @@ Because the city is patrolled at night, the car when it hears the sound of soldi
                                                        Let's save the world!
                                                                                 
                                                                                 
-/////////////////////////// ![alt text](https://i.ibb.co/6WJT58v/4.jpg) ///////////////////////////
+///////////////////////////// ![alt text](https://i.ibb.co/6WJT58v/4.jpg) ///////////////////////////
                                                                                 
                                                                                 
 <br>
