@@ -21,10 +21,11 @@ Because the city is patrolled at night, the car when it hears the sound of soldi
                                                        Let's save the world!
                                                                                 
                                                                                 
-![alt text](https://i.ibb.co/6WJT58v/4.jpg)
+///////////////////////// ![alt text](https://i.ibb.co/6WJT58v/4.jpg) /////////////////////////
                                                                                 
                                                                                 
 <br>
+
 ## 'How to play' instructions
  - First of all, the car must be placed in a place with walls and after that, the start button that is located on one of the middle poles of the car must be pressed.
  - After the car has been started, it will control itself, not needing another human intervention.
