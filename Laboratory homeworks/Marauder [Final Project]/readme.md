@@ -47,5 +47,5 @@ The car will stop when it collects all 3 bombs supposed to be on the map.
 
 <br>
 
-- Here is the  [BOM sheet](https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1410515179) where you can see what materials I used in my project.
+- Here is the  [BOM sheet](https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1410515179) where you can see what I used in my project.
 - Here you can find the [video](https://www.youtube.com/watch?v=KrSa0eRxCjA) with my project in action.
