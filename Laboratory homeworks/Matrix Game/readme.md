@@ -8,6 +8,7 @@ Are missions is to create a safe way for Santa, from his home to world childrens
 
 
 Description: 
+
   In the first 2 second, on the lcd display will be displayed a Welcome message and after that the menu will be shown
   
 - Menu(You can go through the menu using the joysttick. In front of the option you will have a ">" and if you want to select it, just press the button of the joystick):
